@@ -1,0 +1,7 @@
+sistema_biblioteca/
+│
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── src/
+    └── main.py
