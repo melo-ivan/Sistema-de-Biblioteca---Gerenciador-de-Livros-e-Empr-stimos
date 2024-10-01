@@ -1,0 +1,20 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Database files
+*.db
+
+# Environment variables file
+.env
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
